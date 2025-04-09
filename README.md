@@ -1,6 +1,6 @@
 # Missile Command Clone (Console Edition)
 
-This is a C++ remake of the classic **Missile Command**, brought to life in a Windows console.
+This is a simple C++ remake of the classic **Missile Command**, brought to life in a Windows console.
 
 ## How to Run
 
